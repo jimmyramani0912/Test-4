@@ -306,8 +306,10 @@ body {
 }
 
 .best-seller-img img {
+    /* height: 27.2rem;
+    width: 27.2rem; */
     height: 27.2rem;
-    width: 27.2rem;
+    width: 100%;
     object-fit: cover;
     border-radius: 0.6rem;
     filter: brightness(70%);
@@ -430,8 +432,8 @@ body {
 
 .storie-img img {
     border-radius: 0.8rem;
-    height: 20rem;
-    width: 16rem;
+    height: 25rem;
+    width: 100%;
     object-fit: cover;
     -webkit-filter: grayscale(100%);
     /*Safari 6.0 - 9.0 */
